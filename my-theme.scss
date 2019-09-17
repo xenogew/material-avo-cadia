@@ -1,6 +1,5 @@
 // Material Theming
 
-@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans&display=swap');
 
-// Define theme variables before importing any MDC Web component styles
-//$mdc-theme-primary: midnightblue;
+$mdc-typography-family: 'Fira Sans';
